@@ -1,7 +1,7 @@
 {
   "dealership": "Island Owl Mazda",
-  "generated_at": "2026-11-16T21:44:20",
-  "vehicle_count": 70,
+  "generated_at": "2026-11-16T22:26:58",
+  "vehicle_count": 72,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -390,17 +390,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Mazda CX-30 GT KURO W/ TURBO - WHITE LEATHER - 360 CAM - BOSE SPEAKERSin Campbell River",
-      "vin": "3MVDMBAYXTM204505",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/626e58c660b7.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 43445.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Mazda CX-30 GX - LANE ASSIST - AWD - HEATED SEATSin Campbell River",
       "vin": "3MVDMBBL6TM226827",
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/fe21b0151d3d.html",
@@ -408,7 +397,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 31095.0,
+      "price": 30595.0,
       "price_currency": "CAD"
     },
     {
@@ -420,17 +409,6 @@
       "model": "CX-30",
       "condition": "new",
       "price": 31595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-30 GSin Campbell River",
-      "vin": "3MVDMBCL9TM231356",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/551b5ee2344b.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -452,7 +430,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 37845.0,
+      "price": 37345.0,
       "price_currency": "CAD"
     },
     {
@@ -463,7 +441,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 37745.0,
+      "price": 37245.0,
       "price_currency": "CAD"
     },
     {
@@ -474,7 +452,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 40995.0,
+      "price": 40495.0,
       "price_currency": "CAD"
     },
     {
@@ -518,7 +496,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 43995.0,
+      "price": 43495.0,
       "price_currency": "CAD"
     },
     {
@@ -529,7 +507,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 43895.0,
+      "price": 43395.0,
       "price_currency": "CAD"
     },
     {
@@ -540,7 +518,7 @@
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "new",
-      "price": 50445.0,
+      "price": 49445.0,
       "price_currency": "CAD"
     },
     {
@@ -551,7 +529,7 @@
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "new",
-      "price": 55045.0,
+      "price": 54045.0,
       "price_currency": "CAD"
     },
     {
@@ -562,7 +540,7 @@
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "new",
-      "price": 58995.0,
+      "price": 57995.0,
       "price_currency": "CAD"
     },
     {
@@ -573,7 +551,7 @@
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "new",
-      "price": 54645.0,
+      "price": 53645.0,
       "price_currency": "CAD"
     },
     {
@@ -584,7 +562,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 64695.0,
+      "price": 63695.0,
       "price_currency": "CAD"
     },
     {
@@ -595,7 +573,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 56395.0,
+      "price": 55395.0,
       "price_currency": "CAD"
     },
     {
@@ -617,7 +595,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 51795.0,
+      "price": 50795.0,
       "price_currency": "CAD"
     },
     {
@@ -632,14 +610,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Mazda3 GX - BRAKE ASSIST - 8.8\" DISPLAY - BACKUP CAMERAin Campbell River",
-      "vin": "JM1BPABL3T1882023",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/7e122e6cf223.html",
+      "name": "New 2026 Mazda CX-90 MHEV Gt-Pin Campbell River",
+      "vin": "JM3KKDHC5T1395985",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/cff0c707aede.html",
       "year": 2026,
-      "make": "Mazda3",
-      "model": "GX - BRAKE ASSIST - 8.8\" DISPLAY - BACKUP CAMERAin Campbell River",
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 27345.0,
+      "price": 55992.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-90 MHEV Gt-Pin Campbell River",
+      "vin": "JM3KKDHC5T1423526",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/f1283d12bd40.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 59345.0,
       "price_currency": "CAD"
     },
     {
@@ -650,7 +639,7 @@
       "make": "Mazda3",
       "model": "GX - HEATED SEATS - BACK UP CAM - BLIND SPOT MONITORin Campbell River",
       "condition": "new",
-      "price": 27245.0,
+      "price": 26745.0,
       "price_currency": "CAD"
     },
     {
@@ -662,6 +651,28 @@
       "model": "GSin Campbell River",
       "condition": "new",
       "price": 31745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 GSin Campbell River",
+      "vin": "3MZBPACL9TM518137",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/8ad5228bc2d0.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "GSin Campbell River",
+      "condition": "new",
+      "price": 31645.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Gt Turboin Campbell River",
+      "vin": "3MZBPBDY0TM517782",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/5bd3761003ab.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Gt Turboin Campbell River",
+      "condition": "new",
+      "price": 39645.0,
       "price_currency": "CAD"
     },
     {
@@ -683,7 +694,7 @@
       "make": "Mazda3",
       "model": "Sport GS-L - WIRELESS CHARGER - HEATED SEATS & STEERING - SUNROOFin Campbell River",
       "condition": "new",
-      "price": 32495.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -695,6 +706,17 @@
       "model": "Sport GX - HEATED SEATS - CARPLAY - BACK UP CAMERAin Campbell River",
       "condition": "new",
       "price": 27695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport GXin Campbell River",
+      "vin": "JM1BPAKL7T1910471",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/17ff7ca1a4b3.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sport GXin Campbell River",
+      "condition": "new",
+      "price": 27595.0,
       "price_currency": "CAD"
     },
     {
