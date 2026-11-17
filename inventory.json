@@ -1,262 +1,150 @@
 {
   "dealership": "Island Owl Mazda",
-  "generated_at": "2026-10-26T04:04:06",
-  "vehicle_count": 59,
+  "generated_at": "2026-11-16T21:44:20",
+  "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Mazda CX-30 GT KURO W/ TURBO - WHITE LEATHER - 360 CAM - BOSE SPEAKERSin Campbell River",
-      "vin": "3MVDMBAYXTM204505",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/626e58c660b7.html",
-      "condition": "new",
-      "price": 43445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-30 GX - LANE ASSIST - AWD - HEATED SEATSin Campbell River",
-      "vin": "3MVDMBBL6TM226827",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/fe21b0151d3d.html",
-      "condition": "new",
-      "price": 31095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-30 GXin Campbell River",
-      "vin": "3MVDMBBL3TM223786",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/d414977c5c42.html",
-      "condition": "new",
-      "price": 31595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-30 GSin Campbell River",
-      "vin": "3MVDMBCL9TM231356",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/551b5ee2344b.html",
-      "condition": "new",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GX - AWD - HEATED SEATS - BLIND SPOT MONITORINGin Campbell River",
-      "vin": "JM3KMAHA1T0116044",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/2d06d3669834.html",
-      "condition": "new",
-      "price": 37745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 CX-5 GS - AWD - SAFETY SUITE - HEADS UP DISPLAYin Campbell River",
-      "vin": "JM3KMBHA6T0142578",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/15af6bd38e21.html",
-      "condition": "new",
-      "price": 40895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GX - AWD - SMART BRAKE SUPPORT - BUILT IN GOOGLEin Campbell River",
-      "vin": "JM3KMAHA1T0160934",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/9cff49cf4d8a.html",
-      "condition": "new",
-      "price": 37845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GX - AWD - HEATED SEATS - BRAKE ASSIST - CARPLAYin Campbell River",
-      "vin": "JM3KMAHA4T0169840",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/8539d4bc069d.html",
-      "condition": "new",
-      "price": 37745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GS - AWD - HEADS UP DISPLAY - PARK SENORSin Campbell River",
-      "vin": "JM3KMBHA9T0167815",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/a9fab195dc95.html",
-      "condition": "new",
-      "price": 40995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GS - HEADS UP DISPLAY - KEYLESS ENTRY - POWER LIFTGATEin Campbell River",
-      "vin": "JM3KMBHA8T0194360",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/f78bbe7537c2.html",
-      "condition": "new",
-      "price": 40495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GS - HEADS UP DISPLAY - AWD - PARK SENORSin Campbell River",
-      "vin": "JM3KMBHA9T0193850",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/fa589b36f1c7.html",
-      "condition": "new",
-      "price": 40795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GX - AWD - BACK UP CAM - HEATED SEATSin Campbell River",
-      "vin": "JM3KMAHA5T0189580",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/eaec2067aff4.html",
-      "condition": "new",
-      "price": 37745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GT - SIRIUS XM - HEATED & VENTILATED SEATS - BOSE SOUND SYSTEMin Campbell River",
-      "vin": "JM3KMCHA3T0202516",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/93ec65268c17.html",
-      "condition": "new",
-      "price": 43995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GT - AMBIENT LIGHTING - HEATED & VENTILATED SEATS - WIRELESS CARPLAYin Campbell River",
-      "vin": "JM3KMCHA8T0208201",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/d3d9a618bf7d.html",
-      "condition": "new",
-      "price": 43895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-70 MHEV GS-L - KEYLESS ENTRY - SUNROOF - HEATED SEATS & STEERINGin Campbell River",
-      "vin": "JM3KJCHDXT1210979",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/ca0fe8f72147.html",
-      "condition": "new",
-      "price": 50445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-70 MHEV GT - 360 CAM - BOSE SPEAKERS - HEADS UP DISPLAYin Campbell River",
-      "vin": "JM3KJDHD3T1212370",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/868e65d15a89.html",
-      "condition": "new",
-      "price": 55045.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-70 MHEV GT-P - BOSE SPEAKERS - NAVIGATION - 360 CAMERAin Campbell River",
-      "vin": "JM3KJDHC6T1215528",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/c28fc9b2f338.html",
-      "condition": "new",
-      "price": 58995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-70 MHEV GT - BOSE SPEAKERS - PARK SENSORS - WIRELESS CARPLAYin Campbell River",
-      "vin": "JM3KJDHD2T1215356",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/c3864f395b97.html",
-      "condition": "new",
-      "price": 54645.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-90 MHEV SIGNATURE - WHITE LEATHER - 360 CAM - VENTILATED 2ND ROWin Campbell River",
-      "vin": "JM3KKEHC7T1401985",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/f55f49f81631.html",
-      "condition": "new",
-      "price": 64695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-90 MHEV GT - 2ND ROW BENCH - HEADS UP DISPLAY - BOSE SPEAKERS - PANO ROOFin Campbell River",
-      "vin": "JM3KKDHD7T1400788",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/11edde12a3c9.html",
-      "condition": "new",
-      "price": 56395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-90 MHEV GS - CARPLAY - 2ND ROW BENCH - LANE KEEP ASSISTin Campbell River",
-      "vin": "JM3KKBHD3T1409797",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/f397335dc80e.html",
-      "condition": "new",
-      "price": 47395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-90 MHEV GS-L - POWER SEATS - SUNROOF - HEATED SEATSin Campbell River",
-      "vin": "JM3KKCHD7T1416094",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/15e8e2849e36.html",
-      "condition": "new",
-      "price": 51795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-90 MHEV GT - 360 CAMERA - CAPTAIN'S CHAIR - PANORAMIC ROOFin Campbell River",
-      "vin": "JM3KKDHD5T1420389",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/7f81740e325a.html",
-      "condition": "new",
-      "price": 56395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda3 GX - BRAKE ASSIST - 8.8\" DISPLAY - BACKUP CAMERAin Campbell River",
-      "vin": "JM1BPABL3T1882023",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/7e122e6cf223.html",
-      "condition": "new",
-      "price": 27345.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda3 GX - HEATED SEATS - BACK UP CAM - BLIND SPOT MONITORin Campbell River",
-      "vin": "3MZBPABL3TM515350",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/2073df50bdb9.html",
-      "condition": "new",
-      "price": 27245.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda3 GSin Campbell River",
-      "vin": "3MZBPACL1TM516821",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/851692c245de.html",
-      "condition": "new",
-      "price": 31745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda3 Sport GS - HEATED STEERING - APPLE CARPLAY - ADAPTIVE CRUISEin Campbell River",
-      "vin": "JM1BPALL3T1898530",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/2e9c90f5deb4.html",
-      "condition": "new",
-      "price": 30295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda3 Sport GS-L - WIRELESS CHARGER - HEATED SEATS & STEERING - SUNROOFin Campbell River",
-      "vin": "JM1BPALL3T1900289",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/21ab052b579f.html",
-      "condition": "new",
-      "price": 32495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda3 Sport GX - HEATED SEATS - CARPLAY - BACK UP CAMERAin Campbell River",
-      "vin": "JM1BPAKL1T1902785",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/975c11285102.html",
-      "condition": "new",
-      "price": 27695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 Toyota Corolla LEin Campbell River",
-      "vin": "2T1BU4EE9AC353546",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/ebd80807a0de.html",
-      "year": 2010,
-      "make": "Toyota",
-      "model": "Corolla",
+      "name": "Jeep Cherokee 2016 for salein Campbell River",
+      "vin": "1C4PJMDS8GW225112",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/db0c37799edf.html",
       "condition": "used",
-      "price": 13987.0,
+      "price": 14995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2010 Toyota Corolla ",
-      "vin": "2T1BU4EE9AC353546",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/4ba63d5366bc.html",
-      "year": 2010,
-      "make": "Toyota",
-      "model": "Corolla",
+      "name": "Mazda CX-5 2019 for salein Campbell River",
+      "vin": "JM3KFBEY0K0582466",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/348f36eccca1.html",
       "condition": "used",
-      "price": 13987.0,
+      "price": 19875.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Ascent 2022 for salein Campbell River",
+      "vin": "4S4WMAHDXN3454818",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/f2b9b9aa34fc.html",
+      "condition": "used",
+      "price": 31782.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2023 for salein Campbell River",
+      "vin": "3N1CP5CV6PL546508",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/4ce77a003527.html",
+      "condition": "used",
+      "price": 17840.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 2024 for salein Campbell River",
+      "vin": "7MMVABCM2RN233620",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/b907e08b2d37.html",
+      "condition": "used",
+      "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2025 for salein Campbell River",
+      "vin": "JM3KFBCL5S0706285",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/437d706c2a02.html",
+      "condition": "used",
+      "price": 31978.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-70 MHEV 2025 for salein Campbell River",
+      "vin": "JM3KJDHD9S1122672",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/9b061e27d210.html",
+      "condition": "used",
+      "price": 38274.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks Play 2025 for salein Campbell River",
+      "vin": "3N1CP5CV2SL475994",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/dfa6c6fa2424.html",
+      "condition": "used",
+      "price": 20893.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2025 for salein Campbell River",
+      "vin": "JN8BT3AB0SW166590",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/86b08bb7c82d.html",
+      "condition": "used",
+      "price": 24399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2026 for salein Campbell River",
+      "vin": "2GCUKDEDXT1128298",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/daf6e4708676.html",
+      "condition": "used",
+      "price": 49878.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet TrailBlazer 2026 for salein Campbell River",
+      "vin": "KL79MRSL2TB122078",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/19049f9eacb5.html",
+      "condition": "used",
+      "price": 27636.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Trax 2026 for salein Campbell River",
+      "vin": "KL77LHE21TC084053",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/722727c5664a.html",
+      "condition": "used",
+      "price": 26993.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2026 for salein Campbell River",
+      "vin": "3FMCR9CN8TRE15971",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/3fd6b4ba8abd.html",
+      "condition": "used",
+      "price": 35969.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2026 for salein Campbell River",
+      "vin": "1FTFW3L89TKD86177",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/a491b481ca76.html",
+      "condition": "used",
+      "price": 59785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2026 for salein Campbell River",
+      "vin": "3C63R3HL2TG222078",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/d66246225602.html",
+      "condition": "used",
+      "price": 69746.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Jeep Cherokee Limitedin Campbell River",
+      "vin": "1C4PJMDS8GW225112",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/e9588a3ae39b.html",
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Mazda CX-5 Signaturein Campbell River",
+      "vin": "JM3KFBEY0K0582466",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/e10940be684c.html",
+      "year": 2019,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 19875.0,
       "price_currency": "CAD"
     },
     {
@@ -267,29 +155,7 @@
       "make": "Subaru",
       "model": "Ascent",
       "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Subaru Ascent ",
-      "vin": "4S4WMAHDXN3454818",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/f2b9b9aa34fc.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "Ascent",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mazda3 GSin Campbell River",
-      "vin": "3MZBPBCM7PM373443",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/4861ccb821cc.html",
-      "year": 2023,
-      "make": "Mazda3",
-      "model": "GSin Campbell River",
-      "condition": "used",
-      "price": 24957.0,
+      "price": 31782.0,
       "price_currency": "CAD"
     },
     {
@@ -300,7 +166,7 @@
       "make": "Mazda3",
       "model": "Sport GX - HEATED SEATS - CARPLAY - BACK UP CAMERAin Campbell River",
       "condition": "used",
-      "price": 22995.0,
+      "price": 21995.0,
       "price_currency": "CAD"
     },
     {
@@ -311,29 +177,18 @@
       "make": "Mazda3",
       "model": "Sport Gt Turboin Campbell River",
       "condition": "used",
-      "price": 28837.0,
+      "price": 26516.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mazda CX-30 GXin Campbell River",
-      "vin": "3MVDMBBM6RM681999",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/7d62d78668fb.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-30",
+      "name": "2023 Nissan Kicks SVin Campbell River",
+      "vin": "3N1CP5CV6PL546508",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/20adfbb066d1.html",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Kicks",
       "condition": "used",
-      "price": 30846.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-30 ",
-      "vin": "3MVDMBBM6RM681999",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/c636c29c9915.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 30846.0,
+      "price": 17840.0,
       "price_currency": "CAD"
     },
     {
@@ -344,7 +199,7 @@
       "make": "Mazda",
       "model": "CX-50",
       "condition": "used",
-      "price": 37995.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -359,25 +214,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mazda CX-50 ",
-      "vin": "7MMVABCM2RN233620",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/b907e08b2d37.html",
+      "name": "2024 Mazda CX-50 Gt Turboin Campbell River",
+      "vin": "7MMVABDY6RN161595",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/cdfff24277ec.html",
       "year": 2024,
       "make": "Mazda",
       "model": "CX-50",
       "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda3 Sport GS - HEATED SEATS & STEERING - ADAPTIVE CRUISE - BLIND SPOT MONITORINGin Campbell River",
-      "vin": "JM1BPALM9R1720137",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/96e44330760f.html",
-      "year": 2024,
-      "make": "Mazda3",
-      "model": "Sport GS - HEATED SEATS & STEERING - ADAPTIVE CRUISE - BLIND SPOT MONITORINGin Campbell River",
-      "condition": "used",
-      "price": 25995.0,
+      "price": 35781.0,
       "price_currency": "CAD"
     },
     {
@@ -392,47 +236,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-5 GT - BOSE SPEAKERS - SUNROOF - LEATHER SEATSin Campbell River",
-      "vin": "JM3KFBDM4S0759065",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/bbdedb3512d7.html",
+      "name": "2025 Mazda CX-5 Signaturein Campbell River",
+      "vin": "JM3KFBEYXS0790354",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/1dc357ffa5ac.html",
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 36947.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-5 ",
-      "vin": "JM3KFBCL5S0706285",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/437d706c2a02.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 31978.0,
+      "price": 40452.0,
       "price_currency": "CAD"
     },
     {
       "name": "2025 Mazda CX-70 MHEV GTin Campbell River",
-      "vin": "JM3KJDHD7S1123125",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/7e78a3c5471f.html",
+      "vin": "JM3KJDHD9S1122672",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/b390749846b6.html",
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "used",
-      "price": 39655.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-70 MHEV ",
-      "vin": "JM3KJDHD7S1123125",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/9b061e27d210.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-70 MHEV",
-      "condition": "used",
-      "price": 39655.0,
+      "price": 38274.0,
       "price_currency": "CAD"
     },
     {
@@ -443,40 +265,18 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 22995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks Play ",
-      "vin": "3N1CP5CV2SL475994",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/dfa6c6fa2424.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 22995.0,
+      "price": 20893.0,
       "price_currency": "CAD"
     },
     {
       "name": "2025 Nissan Rogue Sin Campbell River",
-      "vin": "JN8BT3AB4SW433732",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/03cff08471bc.html",
+      "vin": "JN8BT3AB0SW166590",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/206a46a5c13f.html",
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 26987.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Rogue ",
-      "vin": "JN8BT3AB4SW433732",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/86b08bb7c82d.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 26987.0,
+      "price": 24399.0,
       "price_currency": "CAD"
     },
     {
@@ -487,7 +287,7 @@
       "make": "Toyota",
       "model": "RAV4 Plug-In Hybrid",
       "condition": "used",
-      "price": 54995.0,
+      "price": 52967.0,
       "price_currency": "CAD"
     },
     {
@@ -509,7 +309,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 42995.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
@@ -524,25 +324,377 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Taos COMFORTLINE - TURBO - REMOTE START - CARPLAYin Campbell River",
-      "vin": "3VVUC7B24SM049039",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/7e4dc912f001.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 28914.0,
+      "name": "New 2026 CX-5 GS - AWD - SAFETY SUITE - HEADS UP DISPLAYin Campbell River",
+      "vin": "JM3KMBHA6T0142578",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/15af6bd38e21.html",
+      "year": 2026,
+      "make": "CX-5",
+      "model": "GS - AWD - SAFETY SUITE - HEADS UP DISPLAYin Campbell River",
+      "condition": "new",
+      "price": 40895.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVUC7B24SM049039",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/7b12bde800e2.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
+      "name": "2026 Chevrolet Silverado 1500 LTin Campbell River",
+      "vin": "2GCUKDEDXT1128298",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/6f06dbcc5dc7.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
       "condition": "used",
-      "price": 28914.0,
+      "price": 49878.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet TrailBlazer LTin Campbell River",
+      "vin": "KL79MRSL2TB122078",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/d481b698d216.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "condition": "used",
+      "price": 27636.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Trax LTin Campbell River",
+      "vin": "KL77LHE21TC084053",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/c7f593d93aa5.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used",
+      "price": 26993.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford Bronco Sport Outer Banksin Campbell River",
+      "vin": "3FMCR9CN8TRE15971",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/f56b5cf45f5c.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "used",
+      "price": 35969.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford F-150 XLTin Campbell River",
+      "vin": "1FTFW3L89TKD86177",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/7ceec13f97d2.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 59785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 GT KURO W/ TURBO - WHITE LEATHER - 360 CAM - BOSE SPEAKERSin Campbell River",
+      "vin": "3MVDMBAYXTM204505",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/626e58c660b7.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "new",
+      "price": 43445.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 GX - LANE ASSIST - AWD - HEATED SEATSin Campbell River",
+      "vin": "3MVDMBBL6TM226827",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/fe21b0151d3d.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "new",
+      "price": 31095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 GXin Campbell River",
+      "vin": "3MVDMBBL3TM223786",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/d414977c5c42.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "new",
+      "price": 31595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 GSin Campbell River",
+      "vin": "3MVDMBCL9TM231356",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/551b5ee2344b.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "new",
+      "price": 33995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GX - AWD - HEATED SEATS - BLIND SPOT MONITORINGin Campbell River",
+      "vin": "JM3KMAHA1T0116044",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/2d06d3669834.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 37745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GX - AWD - SMART BRAKE SUPPORT - BUILT IN GOOGLEin Campbell River",
+      "vin": "JM3KMAHA1T0160934",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/9cff49cf4d8a.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 37845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GX - AWD - HEATED SEATS - BRAKE ASSIST - CARPLAYin Campbell River",
+      "vin": "JM3KMAHA4T0169840",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/8539d4bc069d.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 37745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GS - AWD - HEADS UP DISPLAY - PARK SENORSin Campbell River",
+      "vin": "JM3KMBHA9T0167815",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/a9fab195dc95.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 40995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GS - HEADS UP DISPLAY - KEYLESS ENTRY - POWER LIFTGATEin Campbell River",
+      "vin": "JM3KMBHA8T0194360",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/f78bbe7537c2.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 40495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GS - HEADS UP DISPLAY - AWD - PARK SENORSin Campbell River",
+      "vin": "JM3KMBHA9T0193850",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/fa589b36f1c7.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 40795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GX - AWD - BACK UP CAM - HEATED SEATSin Campbell River",
+      "vin": "JM3KMAHA5T0189580",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/eaec2067aff4.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 37745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GT - SIRIUS XM - HEATED & VENTILATED SEATS - BOSE SOUND SYSTEMin Campbell River",
+      "vin": "JM3KMCHA3T0202516",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/93ec65268c17.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 43995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-5 GT - AMBIENT LIGHTING - HEATED & VENTILATED SEATS - WIRELESS CARPLAYin Campbell River",
+      "vin": "JM3KMCHA8T0208201",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/d3d9a618bf7d.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 43895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-70 MHEV GS-L - KEYLESS ENTRY - SUNROOF - HEATED SEATS & STEERINGin Campbell River",
+      "vin": "JM3KJCHDXT1210979",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/ca0fe8f72147.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "price": 50445.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-70 MHEV GT - 360 CAM - BOSE SPEAKERS - HEADS UP DISPLAYin Campbell River",
+      "vin": "JM3KJDHD3T1212370",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/868e65d15a89.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "price": 55045.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-70 MHEV GT-P - BOSE SPEAKERS - NAVIGATION - 360 CAMERAin Campbell River",
+      "vin": "JM3KJDHC6T1215528",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/c28fc9b2f338.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "price": 58995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-70 MHEV GT - BOSE SPEAKERS - PARK SENSORS - WIRELESS CARPLAYin Campbell River",
+      "vin": "JM3KJDHD2T1215356",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/c3864f395b97.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "price": 54645.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-90 MHEV SIGNATURE - WHITE LEATHER - 360 CAM - VENTILATED 2ND ROWin Campbell River",
+      "vin": "JM3KKEHC7T1401985",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/f55f49f81631.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 64695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-90 MHEV GT - 2ND ROW BENCH - HEADS UP DISPLAY - BOSE SPEAKERS - PANO ROOFin Campbell River",
+      "vin": "JM3KKDHD7T1400788",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/11edde12a3c9.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 56395.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-90 MHEV GS - CARPLAY - 2ND ROW BENCH - LANE KEEP ASSISTin Campbell River",
+      "vin": "JM3KKBHD3T1409797",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/f397335dc80e.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 47395.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-90 MHEV GS-L - POWER SEATS - SUNROOF - HEATED SEATSin Campbell River",
+      "vin": "JM3KKCHD7T1416094",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/15e8e2849e36.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 51795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-90 MHEV GT - 360 CAMERA - CAPTAIN'S CHAIR - PANORAMIC ROOFin Campbell River",
+      "vin": "JM3KKDHD5T1420389",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/7f81740e325a.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 56395.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 GX - BRAKE ASSIST - 8.8\" DISPLAY - BACKUP CAMERAin Campbell River",
+      "vin": "JM1BPABL3T1882023",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/7e122e6cf223.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "GX - BRAKE ASSIST - 8.8\" DISPLAY - BACKUP CAMERAin Campbell River",
+      "condition": "new",
+      "price": 27345.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 GX - HEATED SEATS - BACK UP CAM - BLIND SPOT MONITORin Campbell River",
+      "vin": "3MZBPABL3TM515350",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/2073df50bdb9.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "GX - HEATED SEATS - BACK UP CAM - BLIND SPOT MONITORin Campbell River",
+      "condition": "new",
+      "price": 27245.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 GSin Campbell River",
+      "vin": "3MZBPACL1TM516821",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/851692c245de.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "GSin Campbell River",
+      "condition": "new",
+      "price": 31745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport GS - HEATED STEERING - APPLE CARPLAY - ADAPTIVE CRUISEin Campbell River",
+      "vin": "JM1BPALL3T1898530",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/2e9c90f5deb4.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sport GS - HEATED STEERING - APPLE CARPLAY - ADAPTIVE CRUISEin Campbell River",
+      "condition": "new",
+      "price": 30295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport GS-L - WIRELESS CHARGER - HEATED SEATS & STEERING - SUNROOFin Campbell River",
+      "vin": "JM1BPALL3T1900289",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/21ab052b579f.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sport GS-L - WIRELESS CHARGER - HEATED SEATS & STEERING - SUNROOFin Campbell River",
+      "condition": "new",
+      "price": 32495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport GX - HEATED SEATS - CARPLAY - BACK UP CAMERAin Campbell River",
+      "vin": "JM1BPAKL1T1902785",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/975c11285102.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sport GX - HEATED SEATS - CARPLAY - BACK UP CAMERAin Campbell River",
+      "condition": "new",
+      "price": 27695.0,
       "price_currency": "CAD"
     },
     {
@@ -565,6 +717,17 @@
       "model": "Kicks",
       "condition": "used",
       "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 3500 Big Hornin Campbell River",
+      "vin": "3C63R3HL2TG222078",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/0b2f95d952ae.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used",
+      "price": 69746.0,
       "price_currency": "CAD"
     }
   ]
