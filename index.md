@@ -1,6 +1,6 @@
 # Island Owl Mazda
 
- dealership in Campbell River. AI-readable inventory mirror, about 73 vehicles.
+ dealership in Campbell River. AI-readable inventory mirror, about 72 vehicles.
 
 - Official website: https://www.islandowlmazda.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/

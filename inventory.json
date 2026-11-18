@@ -1,7 +1,7 @@
 {
   "dealership": "Island Owl Mazda",
-  "generated_at": "2026-11-18T05:21:21",
-  "vehicle_count": 73,
+  "generated_at": "2026-11-18T05:38:44",
+  "vehicle_count": 72,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -617,17 +617,6 @@
       "model": "CX-90 MHEV",
       "condition": "new",
       "price": 55395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-90 MHEV Gt-Pin Campbell River",
-      "vin": "JM3KKDHC5T1395985",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/new/cff0c707aede.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-90 MHEV",
-      "condition": "new",
-      "price": 55992.0,
       "price_currency": "CAD"
     },
     {
