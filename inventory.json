@@ -1,6 +1,6 @@
 {
   "dealership": "Island Owl Mazda",
-  "generated_at": "2026-11-17T19:40:23",
+  "generated_at": "2026-11-17T19:58:48",
   "vehicle_count": 73,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -341,7 +341,7 @@
       "make": "CX-5",
       "model": "GS - AWD - SAFETY SUITE - HEADS UP DISPLAYin Campbell River",
       "condition": "new",
-      "price": 40895.0,
+      "price": 40395.0,
       "price_currency": "CAD"
     },
     {
@@ -418,7 +418,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 31595.0,
+      "price": 31095.0,
       "price_currency": "CAD"
     },
     {
@@ -429,7 +429,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 37745.0,
+      "price": 37245.0,
       "price_currency": "CAD"
     },
     {
@@ -473,7 +473,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 40495.0,
+      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -484,7 +484,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 40795.0,
+      "price": 40295.0,
       "price_currency": "CAD"
     },
     {
@@ -495,7 +495,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 37745.0,
+      "price": 37245.0,
       "price_currency": "CAD"
     },
     {
@@ -594,7 +594,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 47395.0,
+      "price": 46395.0,
       "price_currency": "CAD"
     },
     {
@@ -616,7 +616,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 56395.0,
+      "price": 55395.0,
       "price_currency": "CAD"
     },
     {
@@ -660,7 +660,7 @@
       "make": "Mazda3",
       "model": "GSin Campbell River",
       "condition": "new",
-      "price": 31745.0,
+      "price": 31245.0,
       "price_currency": "CAD"
     },
     {
@@ -693,7 +693,7 @@
       "make": "Mazda3",
       "model": "Sport GS - HEATED STEERING - APPLE CARPLAY - ADAPTIVE CRUISEin Campbell River",
       "condition": "new",
-      "price": 30295.0,
+      "price": 29795.0,
       "price_currency": "CAD"
     },
     {
@@ -715,7 +715,7 @@
       "make": "Mazda3",
       "model": "Sport GX - HEATED SEATS - CARPLAY - BACK UP CAMERAin Campbell River",
       "condition": "new",
-      "price": 27695.0,
+      "price": 27195.0,
       "price_currency": "CAD"
     },
     {
