@@ -1,7 +1,7 @@
 {
   "dealership": "Island Owl Mazda",
-  "generated_at": "2026-11-16T22:26:58",
-  "vehicle_count": 72,
+  "generated_at": "2026-11-17T19:40:23",
+  "vehicle_count": 73,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -19,6 +19,14 @@
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/348f36eccca1.html",
       "condition": "used",
       "price": 19875.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2021 for salein Campbell River",
+      "vin": "JM3KFBCM7M0433345",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/1c5b58576be3.html",
+      "condition": "used",
+      "price": 24999.0,
       "price_currency": "CAD"
     },
     {
@@ -78,6 +86,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Toyota RAV4 Plug-In Hybrid 2025 for salein Campbell River",
+      "vin": "JTMGB3FV1SD282738",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/ceb94a178cc8.html",
+      "condition": "used",
+      "price": 52967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2025 for salein Campbell River",
+      "vin": "1V2LR2CA7SC549665",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/d465fe3be702.html",
+      "condition": "used",
+      "price": 43995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Silverado 1500 2026 for salein Campbell River",
       "vin": "2GCUKDEDXT1128298",
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/daf6e4708676.html",
@@ -118,6 +142,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Kicks 2026 for salein Campbell River",
+      "vin": "3N8AP6CB1TL332282",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/0efa20afb207.html",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 3500 2026 for salein Campbell River",
       "vin": "3C63R3HL2TG222078",
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/d66246225602.html",
@@ -148,6 +180,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Mazda CX-5 GSin Campbell River",
+      "vin": "JM3KFBCM7M0433345",
+      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/7c9a2f3a123f.html",
+      "year": 2021,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 24999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Subaru Ascent ONYX - 7 PASSENGER - ALL WEATHER UPHOLSTERY - BRAKE ASSISTin Campbell River",
       "vin": "4S4WMAHDXN3454818",
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/47c35a8bff59.html",
@@ -156,17 +199,6 @@
       "model": "Ascent",
       "condition": "used",
       "price": 31782.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mazda3 Sport GX - HEATED SEATS - CARPLAY - BACK UP CAMERAin Campbell River",
-      "vin": "JM1BPAK77P1606145",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/3464e3c69bc7.html",
-      "year": 2023,
-      "make": "Mazda3",
-      "model": "Sport GX - HEATED SEATS - CARPLAY - BACK UP CAMERAin Campbell River",
-      "condition": "used",
-      "price": 21995.0,
       "price_currency": "CAD"
     },
     {
@@ -210,7 +242,7 @@
       "make": "Mazda",
       "model": "CX-50",
       "condition": "used",
-      "price": 39427.0,
+      "price": 38304.0,
       "price_currency": "CAD"
     },
     {
@@ -291,17 +323,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota RAV4 Plug-In Hybrid ",
-      "vin": "JTMGB3FV1SD282738",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/ceb94a178cc8.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4 Plug-In Hybrid",
-      "condition": "used",
-      "price": 54995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Atlas COMFORTLINE - AWD - HEATED & COOLED SEATS - 7 PASSENGERin Campbell River",
       "vin": "1V2LR2CA7SC549665",
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/fbcee7ca2048.html",
@@ -310,17 +331,6 @@
       "model": "Atlas",
       "condition": "used",
       "price": 43995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Atlas ",
-      "vin": "1V2LR2CA7SC549665",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/d465fe3be702.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -723,17 +733,6 @@
       "name": "2026 Nissan Kicks SV - INTELLIGENT AWD - WIRELESS CARPLAY - LANE ASSISTin Campbell River",
       "vin": "3N8AP6CB1TL332282",
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/a50b9c0e3c6c.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Kicks ",
-      "vin": "3N8AP6CB1TL332282",
-      "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/0efa20afb207.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
