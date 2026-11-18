@@ -1,6 +1,6 @@
 {
   "dealership": "Island Owl Mazda",
-  "generated_at": "2026-11-18T05:38:44",
+  "generated_at": "2026-11-18T13:50:16",
   "vehicle_count": 72,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -47,10 +47,10 @@
     },
     {
       "name": "Mazda CX-50 2024 for salein Campbell River",
-      "vin": "7MMVABCM2RN233620",
+      "vin": "7MMVABDY6RN161595",
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/b907e08b2d37.html",
       "condition": "used",
-      "price": 34995.0,
+      "price": 32964.0,
       "price_currency": "CAD"
     },
     {
@@ -90,7 +90,7 @@
       "vin": "JTMGB3FV1SD282738",
       "url": "https://willyml1979-dotcom.github.io/island-owl-mazda-mirror/used/ceb94a178cc8.html",
       "condition": "used",
-      "price": 52967.0,
+      "price": 51967.0,
       "price_currency": "CAD"
     },
     {
@@ -242,7 +242,7 @@
       "make": "Mazda",
       "model": "CX-50",
       "condition": "used",
-      "price": 38304.0,
+      "price": 37220.0,
       "price_currency": "CAD"
     },
     {
